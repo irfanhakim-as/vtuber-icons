@@ -14,11 +14,11 @@ This repository is a collection of the VTuber-style logos various talented artis
 
 ## Directory
 
-Please refer to the [icons.json](icons.json) file for the list of logos and their respective owners.
+Please refer to the [icons.json](data/icons.json) file for the list of logos and their respective owners.
 
 ## Credits
 
-The owners of the logos are credited in the [icons.json](icons.json) and [owners.json](owners.json) files to the best of my knowledge.
+The owners of the logos are credited in the [icons.json](data/icons.json) and [owners.json](data/owners.json) files to the best of my knowledge.
 
 ```json
 {

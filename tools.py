@@ -59,7 +59,7 @@ def sort_dict_to_file(args):
     #     },
     # ]
     # parser, args = get_args(arguments)
-    inFile = "icons.json" if not args.input else args.input
+    inFile = "data/icons.json" if not args.input else args.input
     jsonDict = read_json(inFile)
     sortedDict = sort_dict(jsonDict)
     write_json(sortedDict, args.output)
@@ -87,7 +87,7 @@ def get_owners(args):
     #     },
     # ]
     # parser, args = get_args(arguments)
-    inFile = ".icons.json" if not args.input else args.input
+    inFile = "data/icons.json" if not args.input else args.input
     jsonDict = read_json(inFile)
     for k, v in jsonDict.items():
         for l in v:
