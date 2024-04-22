@@ -402,6 +402,16 @@
             "filename": "neovim_1.png",
             "source": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
             "owner": "https://twitter.com/Aikoyori"
+        },
+        {
+            "filename": "neovim_2.png",
+            "source": "https://github.com/PetricaT/ProgrammingVTuberLogos-Addon",
+            "owner": "https://github.com/PetricaT"
+        },
+        {
+            "filename": "neovim_3.png",
+            "source": "https://github.com/PetricaT/ProgrammingVTuberLogos-Addon",
+            "owner": "https://github.com/PetricaT"
         }
     ],
     "Next.js": [
@@ -449,6 +459,11 @@
             "filename": "papermc_1.png",
             "source": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
             "owner": "https://twitter.com/Aikoyori"
+        },
+        {
+            "filename": "papermc_2.png",
+            "source": "https://github.com/PetricaT/ProgrammingVTuberLogos-Addon",
+            "owner": "https://github.com/PetricaT"
         }
     ],
     "Pinterest": [
