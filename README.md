@@ -29,6 +29,7 @@ The owners of the logos are credited in the [icons.json](data/icons.json) and [o
     "G2-Games": "https://github.com/G2-Games",
     "Lab___Rat": "https://twitter.com/Lab___Rat",
     "Manhkbrady": "https://www.behance.net/Manhkbrady",
+    "PetricaT": "https://github.com/PetricaT",
     "PretendoNetwork": "https://twitter.com/PretendoNetwork",
     "TheBase16": "https://twitter.com/TheBase16",
     "WiiLink24": "https://twitter.com/WiiLink24",
