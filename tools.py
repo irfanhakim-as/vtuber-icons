@@ -89,7 +89,6 @@ def get_owners(args):
     # parser, args = get_args(arguments)
     inFile = ".icons.json" if not args.input else args.input
     jsonDict = read_json(inFile)
-    # jsonDict = read_json("icons.json")
     for k, v in jsonDict.items():
         for l in v:
             owners.add(l["owner"])
