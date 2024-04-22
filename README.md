@@ -10,7 +10,7 @@
 
 ## About
 
-This repository is a collection of the VTuber-style logos various talented artists have made throughout the ongoing trend on Twitter.
+This repository is a collection of the VTuber-style logos various talented artists have made and posted throughout the ongoing trend on Twitter.
 
 ## Directory
 
