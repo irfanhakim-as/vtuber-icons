@@ -60,3 +60,5 @@ The owners of the logos are credited in the [icons.json](data/icons.json) and [o
 - Please ensure that the logo you're adding is not already in the list **UNLESS** the logo you're adding is a higher quality (but still original, not modified) version of the existing logo.
 
 - Do note however that a single _Subject_ can have more than one logo in the list, just not duplicates of the same logo.
+
+- **ONLY** publicly available logos are allowed in this repository. Do **NOT** add any logos that are not publicly available or are behind a paywall **UNLESS** you are the original creator or have the creator's permission to do so.
