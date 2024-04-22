@@ -681,6 +681,13 @@
             "owner": "https://twitter.com/Chuduuuu"
         }
     ],
+    "TikTok": [
+        {
+            "filename": "tiktok.jpg",
+            "source": "https://twitter.com/AisuAsai/status/1782461971323027804",
+            "owner": "https://twitter.com/AisuAsai"
+        }
+    ],
     "Twitter": [
         {
             "filename": "twitter.jpg",
@@ -705,6 +712,13 @@
             "filename": "vrchat.png",
             "source": "https://twitter.com/sawaratsuki1004/status/1782079506083381657",
             "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
+    "VShojo": [
+        {
+            "filename": "vshojo.jpg",
+            "source": "https://twitter.com/AisuAsai/status/1782465461202059392",
+            "owner": "https://twitter.com/AisuAsai"
         }
     ],
     "Vim": [
