@@ -22,6 +22,7 @@ The owners of the logos are credited in the [icons.json](data/icons.json) and [o
 
 ```json
 {
+    "210on": "https://twitter.com/210on",
     "Aikoyori": "https://twitter.com/Aikoyori",
     "AisuAsai": "https://twitter.com/AisuAsai",
     "Chuduuuu": "https://twitter.com/Chuduuuu",
