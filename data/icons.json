@@ -93,9 +93,30 @@
             "owner": "https://twitter.com/Aikoyori"
         }
     ],
+    "C": [
+        {
+            "filename": "c.png",
+            "source": "https://twitter.com/sawaratsuki1004/status/1782079506083381657",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
     "C Family": [
         {
             "filename": "c-family.png",
+            "source": "https://twitter.com/sawaratsuki1004/status/1782079506083381657",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
+    "C#": [
+        {
+            "filename": "c#.png",
+            "source": "https://twitter.com/sawaratsuki1004/status/1782079506083381657",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
+    "C++": [
+        {
+            "filename": "c++.png",
             "source": "https://twitter.com/sawaratsuki1004/status/1782079506083381657",
             "owner": "https://twitter.com/sawaratsuki1004"
         }
@@ -315,11 +336,28 @@
             "filename": "haskell.png",
             "source": "https://twitter.com/sawaratsuki1004/status/1782079506083381657",
             "owner": "https://twitter.com/sawaratsuki1004"
+        },
+        {
+            "filename": "haskell_1.png",
+            "source": "https://twitter.com/sawaratsuki1004/status/1782079506083381657",
+            "owner": "https://twitter.com/sawaratsuki1004"
         }
     ],
     "Hono": [
         {
             "filename": "hono.png",
+            "source": "https://twitter.com/sawaratsuki1004/status/1782079506083381657",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
+    "Im A Programmer": [
+        {
+            "filename": "im-a-programmer.png",
+            "source": "https://twitter.com/sawaratsuki1004/status/1782079506083381657",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        },
+        {
+            "filename": "im-a-programmer_1.png",
             "source": "https://twitter.com/sawaratsuki1004/status/1782079506083381657",
             "owner": "https://twitter.com/sawaratsuki1004"
         }
