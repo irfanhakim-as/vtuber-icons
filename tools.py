@@ -97,8 +97,22 @@ def get_owners(args):
     sortedDict = sort_dict(ownersDict)
     write_json(sortedDict, args.output)
 
+# get all icon sources
+def get_sources(args):
+    sources = set()
+    sourcesDict = {}
+    inFile = "data/icons.json" if not args.input else args.input
+    jsonDict = read_json(inFile)
+    for k, v in jsonDict.items():
+        for l in v:
+            sources.add(l["source"])
+    for source in sources:
+        sourcesDict[get_id(source)] = source
+    sortedDict = sort_dict(sourcesDict)
+    write_json(sortedDict, args.output)
+
 if __name__ == "__main__":
-    choices = ["owners", "sort"]
+    choices = ["owners", "sort", "sources"]
     # get argument on which command to run
     arguments = [
         {
@@ -151,7 +165,25 @@ if __name__ == "__main__":
                         "default": None,
                     }
                 },
-            ]
+            ],
+            "sources": [
+                {
+                    "names": ["--input"],
+                    "kwargs": {
+                        "help": "Input json file",
+                        "type": str,
+                        # "required": True,
+                    }
+                },
+                {
+                    "names": ["--output"],
+                    "kwargs": {
+                        "help": "Output json file",
+                        "type": str,
+                        "default": None,
+                    }
+                },
+            ],
         }
         command = args.command
         parser, args = get_args(arguments[command])
@@ -160,3 +192,5 @@ if __name__ == "__main__":
             get_owners(args)
         elif command == "sort":
             sort_dict_to_file(args)
+        elif command == "sources":
+            get_sources(args)
