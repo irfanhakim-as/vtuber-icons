@@ -300,6 +300,23 @@
             "owner": "https://twitter.com/sawaratsuki1004"
         }
     ],
+    "ImHex": [
+        {
+            "filename": "imhex.svg",
+            "source": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
+            "owner": "https://twitter.com/Aikoyori"
+        },
+        {
+            "filename": "imhex_1.svg",
+            "source": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
+            "owner": "https://twitter.com/Aikoyori"
+        },
+        {
+            "filename": "imhex2.svg",
+            "source": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
+            "owner": "https://twitter.com/Aikoyori"
+        }
+    ],
     "IntelliJ IDEA": [
         {
             "filename": "intellij-idea.png",
