@@ -638,6 +638,18 @@
             "owner": "https://twitter.com/sawaratsuki1004"
         }
     ],
+    "Ruby on Rails": [
+        {
+            "filename": "ruby-on-rails.png",
+            "source": "https://github.com/Crysta1221/tech_logos",
+            "owner": "https://twitter.com/cr1sta_dev"
+        },
+        {
+            "filename": "ruby-on-rails_1.png",
+            "source": "https://github.com/Crysta1221/tech_logos",
+            "owner": "https://twitter.com/cr1sta_dev"
+        }
+    ],
     "Rust": [
         {
             "filename": "rust.png",
