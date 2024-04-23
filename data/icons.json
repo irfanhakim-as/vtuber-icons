@@ -149,6 +149,18 @@
             "owner": "https://twitter.com/AisuAsai"
         }
     ],
+    "Docker": [
+        {
+            "filename": "docker.png",
+            "source": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
+            "owner": "https://twitter.com/Aikoyori"
+        },
+        {
+            "filename": "docker_1.png",
+            "source": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
+            "owner": "https://twitter.com/Aikoyori"
+        }
+    ],
     "Elgato": [
         {
             "filename": "elgato.jpg",
