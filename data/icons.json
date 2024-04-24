@@ -253,6 +253,18 @@
             "owner": "https://twitter.com/TheBase16"
         }
     ],
+    "Game Changer": [
+        {
+            "filename": "game-changer.png",
+            "source": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
+            "owner": "https://twitter.com/Aikoyori"
+        },
+        {
+            "filename": "game-changer_1.png",
+            "source": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
+            "owner": "https://twitter.com/Aikoyori"
+        }
+    ],
     "GitHub": [
         {
             "filename": "github.png",
@@ -490,6 +502,23 @@
             "filename": "mui.png",
             "source": "https://github.com/SAWARATSUKI/ServiceLogos",
             "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
+    "Mirin Template": [
+        {
+            "filename": "mirin-template.svg",
+            "source": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
+            "owner": "https://twitter.com/Aikoyori"
+        },
+        {
+            "filename": "mirin-template_1.svg",
+            "source": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
+            "owner": "https://twitter.com/Aikoyori"
+        },
+        {
+            "filename": "mirin-template_2.svg",
+            "source": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
+            "owner": "https://twitter.com/Aikoyori"
         }
     ],
     "Mortal Kombat": [
