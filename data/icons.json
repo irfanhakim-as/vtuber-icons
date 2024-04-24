@@ -239,9 +239,23 @@
             "owner": "https://twitter.com/AisuAsai"
         }
     ],
+    "Flipper Zero": [
+        {
+            "filename": "flipper-zero.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
     "Flutter": [
         {
             "filename": "flutter.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
+    "Fortran": [
+        {
+            "filename": "fortran.png",
             "source": "https://github.com/SAWARATSUKI/ServiceLogos",
             "owner": "https://twitter.com/sawaratsuki1004"
         }
@@ -362,6 +376,18 @@
             "owner": "https://twitter.com/sawaratsuki1004"
         }
     ],
+    "Im A Designer": [
+        {
+            "filename": "im-a-designer.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        },
+        {
+            "filename": "im-a-designer_1.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
     "Im A Programmer": [
         {
             "filename": "im-a-programmer.png",
@@ -453,6 +479,11 @@
     "Kotlin": [
         {
             "filename": "kotlin.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        },
+        {
+            "filename": "kotlin_1.png",
             "source": "https://github.com/SAWARATSUKI/ServiceLogos",
             "owner": "https://twitter.com/sawaratsuki1004"
         }
@@ -818,6 +849,25 @@
             "filename": "twitter_1.jpg",
             "source": "https://twitter.com/210on/status/1782477959665942659",
             "owner": "https://twitter.com/210on"
+        },
+        {
+            "filename": "twitter_2.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
+    "TypeScript": [
+        {
+            "filename": "typescript.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
+    "Ubuntu": [
+        {
+            "filename": "ubuntu.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
         }
     ],
     "Unity-Blender": [
