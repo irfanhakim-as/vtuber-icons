@@ -6,6 +6,13 @@
             "owner": "https://twitter.com/TheBase16"
         }
     ],
+    "404 Not Found": [
+        {
+            "filename": "404-not-found.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
     "ASUS ROG": [
         {
             "filename": "asus-rog.jpg",
@@ -284,6 +291,11 @@
             "filename": "github.png",
             "source": "https://github.com/SAWARATSUKI/ServiceLogos",
             "owner": "https://twitter.com/sawaratsuki1004"
+        },
+        {
+            "filename": "github_1.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
         }
     ],
     "GitLab": [
@@ -372,6 +384,11 @@
     "Hono": [
         {
             "filename": "hono.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        },
+        {
+            "filename": "hono_1.png",
             "source": "https://github.com/SAWARATSUKI/ServiceLogos",
             "owner": "https://twitter.com/sawaratsuki1004"
         }
