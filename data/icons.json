@@ -1139,5 +1139,17 @@
             "source": "https://twitter.com/AisuAsai/status/1781567060419686655",
             "owner": "https://twitter.com/AisuAsai"
         }
+    ],
+    "osu!": [
+        {
+            "filename": "osu!.png",
+            "source": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
+            "owner": "https://twitter.com/Aikoyori"
+        },
+        {
+            "filename": "osu!_1.png",
+            "source": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
+            "owner": "https://twitter.com/Aikoyori"
+        }
     ]
 }
