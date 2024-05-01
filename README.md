@@ -41,6 +41,7 @@ The owners of the logos are credited in the [icons.json](data/icons.json) and [o
     "lDMDiamondl": "https://github.com/lDMDiamondl",
     "luciascarlet": "https://twitter.com/luciascarlet",
     "mattsquare_": "https://twitter.com/mattsquare_",
+    "natalie_thenerd": "https://twitter.com/natalie_thenerd",
     "saltyAom": "https://twitter.com/saltyAom",
     "sawaratsuki1004": "https://twitter.com/sawaratsuki1004",
     "unixzii": "https://twitter.com/unixzii",
