@@ -703,6 +703,18 @@
             "owner": "https://twitter.com/sawaratsuki1004"
         }
     ],
+    "Nordvang Films": [
+        {
+            "filename": "nordvang-films.png",
+            "source": "https://github.com/PetricaT/ProgrammingVTuberLogos-Addon",
+            "owner": "https://github.com/PetricaT"
+        },
+        {
+            "filename": "nordvang-films_1.png",
+            "source": "https://github.com/PetricaT/ProgrammingVTuberLogos-Addon",
+            "owner": "https://github.com/PetricaT"
+        }
+    ],
     "Nuxt.js": [
         {
             "filename": "nuxt-js.png",
