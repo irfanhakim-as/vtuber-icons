@@ -6,9 +6,30 @@
             "owner": "https://twitter.com/TheBase16"
         }
     ],
+    "403": [
+        {
+            "filename": "403.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
     "404 Not Found": [
         {
             "filename": "404-not-found.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
+    "418": [
+        {
+            "filename": "418.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
+    "503": [
+        {
+            "filename": "503.png",
             "source": "https://github.com/SAWARATSUKI/ServiceLogos",
             "owner": "https://twitter.com/sawaratsuki1004"
         }
@@ -88,6 +109,13 @@
             "owner": "https://twitter.com/dsphng"
         }
     ],
+    "Bluesky": [
+        {
+            "filename": "bluesky.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
     "Bun": [
         {
             "filename": "bun.png",
@@ -142,6 +170,13 @@
             "owner": "https://twitter.com/sawaratsuki1004"
         }
     ],
+    "CSS": [
+        {
+            "filename": "css.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
     "Cloud9": [
         {
             "filename": "cloud9.jpg",
@@ -175,6 +210,13 @@
             "filename": "dennys.jpg",
             "source": "https://twitter.com/AisuAsai/status/1780700211427541455",
             "owner": "https://twitter.com/AisuAsai"
+        }
+    ],
+    "Discord": [
+        {
+            "filename": "discord.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
         }
     ],
     "Docker": [
@@ -369,6 +411,13 @@
             "owner": "https://twitter.com/AisuAsai"
         }
     ],
+    "Hack Club": [
+        {
+            "filename": "hack-club.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
     "Haskell": [
         {
             "filename": "haskell.png",
@@ -460,6 +509,13 @@
             "owner": "https://twitter.com/sawaratsuki1004"
         }
     ],
+    "Java NullPointerException": [
+        {
+            "filename": "java-nullpointerexception.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
     "Javascript": [
         {
             "filename": "javascript.jpg",
@@ -472,6 +528,13 @@
             "filename": "jollibee.jpg",
             "source": "https://twitter.com/AisuAsai/status/1780498443083112622",
             "owner": "https://twitter.com/AisuAsai"
+        }
+    ],
+    "Julia": [
+        {
+            "filename": "julia.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
         }
     ],
     "Juniper Networks": [
@@ -491,6 +554,13 @@
             "filename": "kate_1.svg",
             "source": "https://github.com/G2-Games/fun-logos",
             "owner": "https://github.com/G2-Games"
+        }
+    ],
+    "Kernel Panic": [
+        {
+            "filename": "kernel-panic.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
         }
     ],
     "Kotlin": [
@@ -527,6 +597,13 @@
     "Laravel": [
         {
             "filename": "laravel.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
+    "Lisp": [
+        {
+            "filename": "lisp.png",
             "source": "https://github.com/SAWARATSUKI/ServiceLogos",
             "owner": "https://twitter.com/sawaratsuki1004"
         }
@@ -779,6 +856,13 @@
             "owner": "https://twitter.com/sawaratsuki1004"
         }
     ],
+    "Scratch": [
+        {
+            "filename": "scratch.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
     "Scrub Daddy": [
         {
             "filename": "scrub-daddy.jpg",
@@ -915,6 +999,13 @@
             "owner": "https://twitter.com/AisuAsai"
         }
     ],
+    "Vercel AI SDK": [
+        {
+            "filename": "vercel-ai-sdk.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        }
+    ],
     "Vim": [
         {
             "filename": "vim.png",
@@ -932,6 +1023,16 @@
             "filename": "visual-studio_1.png",
             "source": "https://github.com/hvpexe/ProgrammingVTuberLogos-VisualStudio",
             "owner": "https://www.behance.net/Manhkbrady"
+        },
+        {
+            "filename": "visual-studio_2.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        },
+        {
+            "filename": "visual-studio_3.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
         }
     ],
     "Visual Studio Code": [
@@ -954,6 +1055,16 @@
             "filename": "vscode_3.png",
             "source": "https://github.com/lDMDiamondl/ProgrammingVTuberLogosKR",
             "owner": "https://github.com/lDMDiamondl"
+        },
+        {
+            "filename": "vscode_4.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
+        },
+        {
+            "filename": "vscode_5.png",
+            "source": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "owner": "https://twitter.com/sawaratsuki1004"
         }
     ],
     "Vite": [
