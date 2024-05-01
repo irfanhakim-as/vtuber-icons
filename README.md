@@ -35,6 +35,7 @@ The owners of the logos are credited in the [icons.json](data/icons.json) and [o
     "TheBase16": "https://twitter.com/TheBase16",
     "WiiLink24": "https://twitter.com/WiiLink24",
     "WordlessEcho": "https://twitter.com/WordlessEcho",
+    "alfonsusac": "https://twitter.com/alfonsusac",
     "cr1sta_dev": "https://twitter.com/cr1sta_dev",
     "dsphng": "https://twitter.com/dsphng",
     "lDMDiamondl": "https://github.com/lDMDiamondl",
